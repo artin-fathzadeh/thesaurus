@@ -6,7 +6,7 @@ th = input("Enter the word to search for synonyms: ")
 last_part = input("Enter the last part of the message: ")
 
 # Get synonyms from the Merriam-Webster Thesaurus API
-url = "https://www.dictionaryapi.com/api/v3/references/thesaurus/json/" + th + "?key=fa88f11a-43b8-47a1-b40f-7cf56b711dee"
+url = "https://www.dictionaryapi.com/api/v3/references/thesaurus/json/" + th + "key=  ENTER KEY  "
 try:
  response = requests.get(url)
  response.raise_for_status()
