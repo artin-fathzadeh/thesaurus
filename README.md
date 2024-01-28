@@ -6,4 +6,3 @@ Copyright (c) 2023 artin](https://github.com/artin-fathzadeh/thesaurus/blob/main
 
 [Learn More](https://github.com/artin-fathzadeh/thesaurus/blob/main/LICENSE)
 
-Please use at your own risk. This uses Beeper to send messages and may get your IMessage/Apple Account or other messaging accounts suspended (WhatsApp, Discord, etc). 
